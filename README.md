@@ -14,8 +14,8 @@ Assistant AI is a simple conversational assistant package that uses predefined q
 Clone the repository and navigate to your project folder:
 
 ```bash
-git clone https://github.com/wassim-khleifi/assistantbot.git
-cd assistantbot
+git clone https://github.com/wassim-khleifi/ai_assistantbot.git
+cd ai_assistantbot
 ```
 You can install the package using pip:
 ```bash
@@ -23,14 +23,15 @@ pip install .
 ```
 Or install via pypi:
 ```bash
-pip install assistantbot
+pip install ai_assistantbot
 ```
 
 ## Usage:
 ### Initializing the Assistant:
 First, import and initialize the Assistant class with the path to the JSON file that stores the model data:
 ```py
-from assistant import Assistant
+import ai_assistantbot
+from ai_assistantbot import Assistant
 
 # Initialize the assistant with the model JSON file
 assistant = Assistant('path_to_your_model.json')
@@ -55,8 +56,8 @@ assistant.train_model(new_questions, new_answers)
 ## Example:
 This example is taken from ``examples/example.py``
 ```py
-import assistantbot
-from assistantbot.assistant import *
+import ai_assistantbot
+from ai_assistantbot.assistant import *
 # Initialize the assistant with the model JSON file
 assistant = Assistant('example.json')
 assistant.register() # Register the base model (if not created)
