@@ -14,7 +14,7 @@ Assistant AI is a simple conversational assistant package that uses predefined q
 Clone the repository and navigate to your project folder:
 
 ```bash
-git clone https://github.com/yourusername/assistantbot.git
+git clone https://github.com/wassim-khleifi/assistantbot.git
 cd assistantbot
 ```
 You can install the package using pip:
