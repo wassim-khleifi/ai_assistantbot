@@ -6,7 +6,7 @@ from difflib import get_close_matches
 base_data = {
 	"model": [
 		{"question": ["hi", "hello"], "answers": ["Hey there!", "Hello! How can i assist you today?"]},
-		{"question": ["i love you", "i like you"], "answers": ["Thanks", "Hello! How can i assist you today?"]}
+		{"question": ["i love you", "i like you"], "answers": ["Thanks", "Oh! Thank you very much"]}
 	]
 }
 
