@@ -1,14 +1,1 @@
-{
-    "model": [
-        {
-            "question": [
-                "hi",
-                "hello"
-            ],
-            "answers": [
-                "Hey there!",
-                "Hello! How can i assist you today?"
-            ]
-        }
-    ]
-}
+{}
