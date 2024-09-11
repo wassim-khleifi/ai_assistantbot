@@ -9,7 +9,7 @@ README = (HERE / "README.md").read_text()
 
 setup(
     name='ai_assistantbot',  # Name of your package
-    version='0.0.10',  # Version of the package
+    version='0.0.11',  # Version of the package
     packages=find_packages(),  # Automatically find the packages in your project
     install_requires=[],  # External dependencies (if any)
     description='AssistantBot is a python package which provides an question-answering system designed to process large datasets efficiently. It dynamically matches user queries with relevant data, offering accurate responses and easy training process.',  # A short description

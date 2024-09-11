@@ -9,49 +9,6 @@
                 "Hey there!",
                 "Hello! How can i assist you today?"
             ]
-        },
-        {
-            "question": [
-                "i love you",
-                "i like you"
-            ],
-            "answers": [
-                "Thanks",
-                "Hello! How can i assist you today?"
-            ]
-        },
-        {
-            "question": [
-                "[",
-                "\"",
-                "t",
-                "e",
-                "s",
-                "t",
-                "\"",
-                "]"
-            ],
-            "answers": [
-                "[",
-                "\"",
-                "n",
-                "i",
-                "c",
-                "e",
-                " ",
-                "t",
-                "e",
-                "s",
-                "t",
-                " ",
-                "b",
-                "u",
-                "d",
-                "d",
-                "y",
-                "\"",
-                "]"
-            ]
         }
     ]
 }
